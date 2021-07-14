@@ -1,0 +1,145 @@
+- '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/CO2_sensor_measurements.csv
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/DigitalDocument
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/dateCreated:
+  - '@value': '2021-03-09T13:55:10.040985+00:00'
+  http://schema.org/isPartOf:
+  - '@id': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1
+  http://schema.org/name:
+  - '@value': CO2_sensor_measurements.csv
+  http://schema.org/url:
+  - '@value': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1/files/blob/data/carbosense-raw/CO2_sensor_measurements.csv
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': data/carbosense-raw/CO2_sensor_measurements.csv@012169346e6fe8aa935fed8a6c46d25f9ad53d8a
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': data/carbosense-raw/CO2_sensor_measurements.csv
+  https://swissdatasciencecenter.github.io/renku-ontology#external:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#source:
+  - '@value': ../../../../uploads/dGFvLnN1bmVwZmwuY2g=/CO2_sensor_measurements.csv
+- '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/sensors_metadata.csv
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/DigitalDocument
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/dateCreated:
+  - '@value': '2021-03-09T13:55:10.023534+00:00'
+  http://schema.org/isPartOf:
+  - '@id': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1
+  http://schema.org/name:
+  - '@value': sensors_metadata.csv
+  http://schema.org/url:
+  - '@value': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1/files/blob/data/carbosense-raw/sensors_metadata.csv
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': data/carbosense-raw/sensors_metadata.csv@012169346e6fe8aa935fed8a6c46d25f9ad53d8a
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': data/carbosense-raw/sensors_metadata.csv
+  https://swissdatasciencecenter.github.io/renku-ontology#external:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#source:
+  - '@value': ../../../../uploads/dGFvLnN1bmVwZmwuY2g=/sensors_metadata.csv
+- '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/temperature_humidity.csv
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/DigitalDocument
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/dateCreated:
+  - '@value': '2021-03-09T13:55:10.032143+00:00'
+  http://schema.org/isPartOf:
+  - '@id': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1
+  http://schema.org/name:
+  - '@value': temperature_humidity.csv
+  http://schema.org/url:
+  - '@value': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1/files/blob/data/carbosense-raw/temperature_humidity.csv
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': data/carbosense-raw/temperature_humidity.csv@012169346e6fe8aa935fed8a6c46d25f9ad53d8a
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': data/carbosense-raw/temperature_humidity.csv
+  https://swissdatasciencecenter.github.io/renku-ontology#external:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#source:
+  - '@value': ../../../../uploads/dGFvLnN1bmVwZmwuY2g=/temperature_humidity.csv
+- '@id': https://dslab2021-renku.epfl.ch/datasets/c94dbd48-33b3-4eff-8cbb-92422a50ff45
+  '@type':
+  - http://purl.org/wf4ever/wfprov#Artifact
+  - http://schema.org/Dataset
+  - http://www.w3.org/ns/prov#Entity
+  http://schema.org/alternateName:
+  - '@value': carbosense-raw
+  http://schema.org/creator:
+  - '@id': mailto:tao.sun@epfl.ch
+  http://schema.org/dateCreated:
+  - '@value': '2021-03-09T13:55:10.049841+00:00'
+  http://schema.org/description:
+  - '@value': Data from the project [Carbosense](http://carbosense.wikidot.com/)
+  http://schema.org/hasPart:
+  - '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/sensors_metadata.csv
+  - '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/temperature_humidity.csv
+  - '@id': https://dslab2021-renku.epfl.ch/blob/012169346e6fe8aa935fed8a6c46d25f9ad53d8a/data/carbosense-raw/CO2_sensor_measurements.csv
+  http://schema.org/identifier:
+  - '@value': c94dbd48-33b3-4eff-8cbb-92422a50ff45
+  http://schema.org/isPartOf:
+  - '@id': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1
+  http://schema.org/keywords:
+  - '@value': CO2
+  - '@value': Timeseries
+  - '@value': IoT
+  http://schema.org/name:
+  - '@value': carbosense-raw
+  http://schema.org/subjectOf: []
+  http://schema.org/url:
+  - '@value': https://dslab2021-renku.epfl.ch/datasets/c94dbd48-33b3-4eff-8cbb-92422a50ff45
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': c94dbd48-33b3-4eff-8cbb-92422a50ff45
+  http://www.w3.org/ns/prov#atLocation:
+  - '@value': .renku/datasets/60c125c7-478a-4e0f-a1cb-89ef22625a01
+  http://www.w3.org/ns/prov#wasDerivedFrom:
+  - '@id': https://localhost/urls/%2F%2Fdslab2021-renku.epfl.ch%2Fdatasets%2F60c125c7-478a-4e0f-a1cb-89ef22625a01
+- '@id': https://dslab2021-renku.epfl.ch/projects/com490-pub/homework1
+  '@type':
+  - http://schema.org/Project
+  - http://www.w3.org/ns/prov#Location
+  http://schema.org/agent:
+  - '@value': 0.13.0
+  http://schema.org/creator:
+  - '@id': mailto:tao.sun@epfl.ch
+  http://schema.org/dateCreated:
+  - '@value': '2021-03-09T13:52:10.344336+00:00'
+  http://schema.org/name:
+  - '@value': homework1
+  http://schema.org/schemaVersion:
+  - '@value': '8'
+  https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate:
+  - '@value': false
+  https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+  https://swissdatasciencecenter.github.io/renku-ontology#templateId:
+  - '@value': python-minimal
+  https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata:
+  - '@value': '{"__template_source__": "https://github.com/SwissDataScienceCenter/renku-project-template",
+      "__template_ref__": "0.1.16", "__template_id__": "python-minimal", "__namespace__":
+      "com490-pub", "__automated_update__": true, "__repository__": "https://dslab2021-renku.epfl.ch/gitlab",
+      "__sanitized_project_name__": "homework1", "__project_slug__": "com490-pub/homework1",
+      "description": "Homework 1", "name": "homework1"}'
+  https://swissdatasciencecenter.github.io/renku-ontology#templateReference:
+  - '@value': 0.1.16
+  https://swissdatasciencecenter.github.io/renku-ontology#templateSource:
+  - '@value': https://github.com/SwissDataScienceCenter/renku-project-template
+  https://swissdatasciencecenter.github.io/renku-ontology#templateVersion:
+  - '@value': 11c74ad062891b24b5873d3036eff032eebc973a
+- '@id': https://localhost/urls/%2F%2Fdslab2021-renku.epfl.ch%2Fdatasets%2F60c125c7-478a-4e0f-a1cb-89ef22625a01
+  '@type':
+  - http://schema.org/URL
+  http://schema.org/url:
+  - '@id': https://dslab2021-renku.epfl.ch/datasets/60c125c7-478a-4e0f-a1cb-89ef22625a01
+- '@id': mailto:tao.sun@epfl.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/email:
+  - '@value': tao.sun@epfl.ch
+  http://schema.org/name:
+  - '@value': Tao Sun
+  http://www.w3.org/2000/01/rdf-schema#label:
+  - '@value': Tao Sun
